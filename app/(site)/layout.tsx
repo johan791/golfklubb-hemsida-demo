@@ -103,17 +103,23 @@ function DesktopNavItem({ item }: { item: NavItem }) {
         </svg>
       </Link>
       {open && (
-        <div className="absolute top-full left-0 mt-1 bg-[var(--color-forest)] border border-white/10 rounded-lg shadow-xl py-1 min-w-48 z-50">
-          {item.children.map((child) => (
-            <Link
-              key={child.href}
-              href={child.href}
-              className="block px-4 py-2 text-sm text-white/70 hover:text-white hover:bg-white/10 transition-colors"
-            >
-              {child.label}
-            </Link>
-          ))}
-        </div>
+        <>
+          <div className="absolute top-full left-0 h-2 w-full" />
+          <div className="absolute top-full left-0 pt-2">
+            <div className="bg-[var(--color-forest)] border border-white/10 rounded-lg shadow-xl py-1 min-w-48">
+              {item.children.map((child) => (
+                <Link
+                  key={child.href}
+                  href={child.href}
+                  onClick={() => setOpen(false)}
+                  className="block px-4 py-2 text-sm text-white/70 hover:text-white hover:bg-white/10 transition-colors"
+                >
+                  {child.label}
+                </Link>
+              ))}
+            </div>
+          </div>
+        </>
       )}
     </div>
   );
