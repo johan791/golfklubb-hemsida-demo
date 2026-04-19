@@ -44,8 +44,7 @@ export default function AdminPage() {
 
   async function handleLogout() {
     await fetch("/api/admin/logout", { method: "POST" });
-    setAuthenticated(false);
-    setCode("");
+    window.location.reload();
   }
 
   if (checking) {
