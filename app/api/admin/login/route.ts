@@ -1,11 +1,14 @@
 import { cookies } from "next/headers";
 
-const ADMIN_CODE = process.env.ADMIN_CODE || "ljgk2026";
+const ADMIN_CODES = ["ljgk2026", "demo"];
 
 export async function POST(request: Request) {
   const { code } = (await request.json()) as { code: string };
+  const envCode = process.env.ADMIN_CODE;
 
-  if (code !== ADMIN_CODE) {
+  const validCodes = envCode ? [envCode, ...ADMIN_CODES] : ADMIN_CODES;
+
+  if (!validCodes.includes(code.trim())) {
     return Response.json({ error: "Fel kod" }, { status: 401 });
   }
 
