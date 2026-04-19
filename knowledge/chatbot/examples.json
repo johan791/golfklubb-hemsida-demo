@@ -1,0 +1,98 @@
+[
+  {
+    "category": "Medlemskap",
+    "scenario": "Fråga om medlemskapstyper",
+    "customer_message": "Vad kostar det att bli medlem hos er?",
+    "staff_response": "Vad kul att du är intresserad av medlemskap! Vi har flera kategorier:\n\n- **Aktiv Senior** (31+ år): 12 400 kr/år + 39 600 kr inträdesavgift\n- **Aktiv Ungdom** (22–30 år): 5 500 kr/år + 5 500 kr inträdesavgift\n- **Aktiv Junior** (0–21 år): 3 800 kr/år\n- **Vardagssenior**: 9 400 kr/år (spel helgfria vardagar)\n\nMedlemskap ger obegränsad spelrätt och gäst-till-medlem-pris på partnerklubbar! Vill du veta mer om ansökningsprocessen?"
+  },
+  {
+    "category": "Greenfee",
+    "scenario": "Fråga om greenfee-pris",
+    "customer_message": "Vad kostar en runda greenfee?",
+    "staff_response": "Här är våra greenfee-priser för 18 hål:\n\n- **Högsäsong** (v.16–39): 1 500 kr / junior 750 kr\n- **Mellansäsong** (v.10–15, 40–44): 1 200 kr / junior 600 kr\n- **Lågsäsong** (v.45–9): 700 kr / junior 350 kr\n\nVi har även 9-hålsrundor från 450 kr. Boka via Golfbox!\n\nVisste du att som medlem får du obegränsad spelrätt? Aktiv Senior kostar 12 400 kr/år — det motsvarar bara 8–9 ronder i högsäsong!"
+  },
+  {
+    "category": "Bokning",
+    "scenario": "Hur bokar man starttid",
+    "customer_message": "Hur bokar jag en starttid?",
+    "staff_response": "Du bokar starttider via Golfbox! Tillgängliga tider:\n\n- **Vardagar**: 08:30–20:00\n- **Helger**: 09:00–20:00\n\n18-hålsronder startar vid hål 10. Du kan ha max 5 bokade tider (max 2 på helg). Kom ihåg att registrera ankomst senast 15 min innan via receptionen eller Min Golf-appen!"
+  },
+  {
+    "category": "Bana",
+    "scenario": "Fråga om banan",
+    "customer_message": "Hur många hål har ni?",
+    "staff_response": "Vi har en fantastisk 27-hålsbana — Nordeuropas första! Den är fördelad på tre slingor:\n\n- **Slinga 1–9**\n- **Slinga 10–18**\n- **Slinga 19–27**\n\nBanan ligger i ett naturreservat på Falsterbonäset med 377 växtarter och 90 fågelarter. Klubben grundades 1932 och är GEO-certifierad. Vill du boka en runda?"
+  },
+  {
+    "category": "Academy",
+    "scenario": "Nybörjare vill lära sig",
+    "customer_message": "Jag har aldrig spelat golf, var börjar jag?",
+    "staff_response": "Välkommen till golfen! Jag rekommenderar vår kurs \"Hitta dina grunder!\" — den kostar bara 350 kr och har max 3 deltagare så du får personlig uppmärksamhet från Gustav.\n\nVi har också privatlektioner från 600 kr (25 min) med våra 5 PGA-proffs. Driving range är öppen 07:00–21:00 dagligen. Vill du boka direkt?"
+  },
+  {
+    "category": "Junior",
+    "scenario": "Förälder frågar om junior",
+    "customer_message": "Min dotter är 10 år och vill börja spela golf, vad finns det?",
+    "staff_response": "Vad roligt! Din dotter passar perfekt i **Team Future 9–12 år** (3 650 kr/säsong) med coach Gustav Ågren. Inkluderar rangekort värt 7 300 kr!\n\nJuniormedlemskap kostar 3 800 kr/år och ger obegränsad spelrätt. Vi har även sommarträning \"Golf for Girls\" för tjejer 10–16 år (1 500 kr).\n\nAnmälan görs via Sportadmin. Vill du veta mer om sommarskolan?"
+  },
+  {
+    "category": "Golfbil",
+    "scenario": "Fråga om golfbil",
+    "customer_message": "Kan man hyra golfbil?",
+    "staff_response": "Ja! Priser för golfbil:\n\n- **Gäst**: 500 kr\n- **Medlem**: 400 kr\n- **75+ medlem**: 200 kr\n- **Klippkort** (10 ggr): 3 500 kr\n- **Dragvagn**: 80 kr\n\nEftersom banan ligger i ett naturreservat krävs giltigt körkort och läkarintyg. Samåkning uppmuntras! Boka via kansliet: 040-45 80 00."
+  },
+  {
+    "category": "Restaurang",
+    "scenario": "Fråga om restaurangen",
+    "customer_message": "Har ni någon restaurang?",
+    "staff_response": "Absolut! Restaurang Nermans ligger i klubbhuset och har öppet dagligen 09:00–15:00. Perfekt för lunch efter rundan!\n\nTel: 040-45 35 81 | info@nermans.nu"
+  },
+  {
+    "category": "Kontakt",
+    "scenario": "Fråga om kontaktuppgifter",
+    "customer_message": "Hur når jag kansliet?",
+    "staff_response": "Du når oss så här:\n\n- **Kansli**: 040-45 80 00 | info@ljgk.se\n- **Öppettider**: Vardag 08:30–16:00, Helg 08:30–15:00\n- **Telefontider**: Vardag 09–12 & 13–15, Helg 09–13\n- **Shop**: 040-45 25 61 | shop@ljgk.se\n- **Adress**: Kinells väg 34, 236 42 Höllviken"
+  },
+  {
+    "category": "Academy",
+    "scenario": "Fråga om lektioner",
+    "customer_message": "Vad kostar en golflektion?",
+    "staff_response": "Vi har flera alternativ:\n\n- **25 min**: 600 kr\n- **45 min**: 950 kr\n- **60 min**: 1 200 kr\n- **Grupp**: +250 kr per person (max 4)\n- **Banspel 9 hål**: 1 995 kr\n- **Banspel 18 hål**: 2 995 kr\n\nVi har 5 PGA-proffs som alla kan kontaktas direkt. Boka via ProPlanner eller ring shop 040-45 25 61."
+  },
+  {
+    "category": "Övrigt",
+    "scenario": "Fråga på engelska",
+    "customer_message": "What's the green fee?",
+    "staff_response": "Welcome to Ljunghusen! Our 18-hole green fees are:\n\n- **High season** (weeks 16–39): 1,500 SEK / junior 750 SEK\n- **Mid season** (weeks 10–15, 40–44): 1,200 SEK / junior 600 SEK\n- **Low season** (weeks 45–9): 700 SEK / junior 350 SEK\n\nWe also have 9-hole rounds from 450 SEK. Book via Golfbox! Would you like help finding accommodation nearby?"
+  },
+  {
+    "category": "Senior",
+    "scenario": "Fråga om senioraktiviteter",
+    "customer_message": "Finns det något för oss seniorer?",
+    "staff_response": "Absolut! Vi har ett aktivt seniorprogram:\n\n- **Onsdagsgolf** — varje vecka, 60 kr avgift, anmälan via Min Golf\n- **Running Competition** — löpande poängtävling\n- **Seriespel** — regionala serier via Skånes Golfförbund\n- **Klubbmatcher**\n\nHälften av onsdagstävlingarna är Running Competition, hälften lagtävlingar. Följ seniorgruppen på Facebook: \"Ljunghusens GK Seniorer\"!"
+  },
+  {
+    "category": "Övrigt",
+    "scenario": "Fråga om boende",
+    "customer_message": "Var kan man bo om man vill spela hos er?",
+    "staff_response": "Det finns flera fina boenden nära banan:\n\n- **Strandvillan** — 5 km, spa, 20 unika rum (strandvillan.com)\n- **Hotell Gässlingen** — Skanör, spa & pool (hotellgasslingen.com)\n- **Höllviksnäs** — Pool, bastu, restaurang (040-459150)\n- **Quality Hotel View** — Malmö, golfsimulatorer\n\nFalsterbonäset har fantastiska stränder bara 5 minuter bort! Vill du boka greenfee också?"
+  },
+  {
+    "category": "Bana",
+    "scenario": "Fråga om driving range",
+    "customer_message": "Har ni en driving range?",
+    "staff_response": "Ja! Vår driving range är öppen dagligen 07:00–21:00.\n\n- **20 bollar**: 20 kr\n- **40 bollar**: 35 kr\n- **60 bollar**: 50 kr\n\n10% bonus med Golfmore-appen! Vi har dessutom 5 putting greener, 1 pitching green, 3 chipping greener och en par 3-bana (40–60 m). Perfekt för uppvärmning!"
+  },
+  {
+    "category": "Övrigt",
+    "scenario": "Fråga om klubbens historia",
+    "customer_message": "Hur gammal är klubben?",
+    "staff_response": "Ljunghusens GK grundades 1932 av AB Ljungskogens Strandbad — vi har en rik historia!\n\n- **1932**: Start med 6 hål\n- **1957**: Ny 18-hålsbana av Douglas Brasier\n- **1965**: Nordeuropas första 27-hålsbana!\n- **2002**: Stor renovering efter brand\n\nVi är GEO-certifierade och banan ligger i ett naturreservat med 377 växtarter och 90 fågelarter. Vill du veta mer?"
+  },
+  {
+    "category": "Tävling",
+    "scenario": "Fråga om tävlingar",
+    "customer_message": "Hur anmäler jag mig till tävlingar?",
+    "staff_response": "Du anmäler dig via MinGolf, email (info@ljgk.se) eller telefon (040-45 80 00).\n\n- **Anmälningsfrist**: Senast kl 12:00 två dagar före tävling\n- **KM**: Ingen avgift för herrar/damer\n- **No-show**: Dubbel anmälningsavgift om du inte avbokar\n- **Juniorer** med HCP ≤11 får spela i huvudklass\n\nVi har även seriespel i Skånes Golfförbund. Kontakta kansliet för mer info!"
+  }
+]

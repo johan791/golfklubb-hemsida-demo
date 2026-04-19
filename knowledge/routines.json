@@ -1,0 +1,308 @@
+{
+  "club_info": {
+    "name": "Ljunghusens Golfklubb",
+    "short_name": "LJGK",
+    "founded": 1932,
+    "location": "Falsterbonäset, sydvästra Skåne",
+    "address": "Kinells väg 34, 236 42 Höllviken",
+    "website": "www.ljgk.se",
+    "environmental_certification": "GEO Certified — en av Sveriges första fullt certifierade golfklubbar",
+    "nature_reserve": true,
+    "history_highlights": {
+      "1932": "Klubben grundas av AB Ljungskogens Strandbad med 6 hål",
+      "1938": "Inträde i SGF",
+      "1952": "Första heltidspron Hans-Erik 'Kirr' Christersson anställs",
+      "1957": "Ny 18-hålsbana av Douglas Brasier och Bengt Polling",
+      "1965": "Nordeuropas första 27-hålsbana invigs",
+      "1982": "Medlemsantal växt från 10 (1932) till ~1 200",
+      "2002": "Brandskada leder till stor renovering",
+      "2008": "Lounge och mötesrum tillbyggs",
+      "2019": "Senaste internationella mästerskapet (EM)"
+    },
+    "nature_facts": {
+      "vaxtarter": 377,
+      "fagelarter": 90,
+      "geo_fokusomraden": ["Landskap & ekosystem", "Vattenhantering", "Energi & resurser", "Produkter & leverantörskedjor", "Miljökvalitet", "Människor & samhällen"]
+    }
+  },
+  "contact": {
+    "kansli": {
+      "telefon": "040-45 80 00",
+      "email": "info@ljgk.se",
+      "telefontider_vardag": "09:00–12:00, 13:00–15:00",
+      "telefontider_helg": "09:00–13:00",
+      "oppettider_vardag": "08:30–16:00",
+      "oppettider_helg": "08:30–15:00"
+    },
+    "shop": {
+      "telefon": "040-45 25 61",
+      "email": "shop@ljgk.se"
+    },
+    "restaurang": {
+      "namn": "Nermans",
+      "telefon": "040-45 35 81",
+      "email": "info@nermans.nu",
+      "oppettider": "Dagligen 09:00–15:00"
+    },
+    "styrelse_email": "styrelsen@ljgk.se",
+    "valberedning_email": "valberedningen@ljgk.se"
+  },
+  "opening_hours": {
+    "shop_kansli_vardag": "08:30–16:00",
+    "shop_kansli_helg": "08:30–15:00",
+    "restaurang": "Dagligen 09:00–15:00",
+    "kiosk": "Stängd (renovering pågår)",
+    "driving_range": "Dagligen 07:00–21:00",
+    "klubbhus": "Dagligen 07:00–21:00"
+  },
+  "staff": {
+    "admin": [
+      { "namn": "Tony Björk", "titel": "VD/Klubbchef", "email": "klubbchef@ljgk.se" },
+      { "namn": "Katarina Evander", "titel": "Marknad/försäljning/kansliansvarig", "email": "katarina@ljgk.se" },
+      { "namn": "Anna Carlsson", "titel": "Ekonomi och kansli", "email": "anna@ljgk.se" },
+      { "namn": "Eric Tham", "titel": "Marshal" }
+    ],
+    "bana": [
+      { "namn": "Simon Månsson", "titel": "Banchef", "email": "banchef@ljgk.se" },
+      { "namn": "Martin Jernberg", "titel": "Mekaniker" },
+      { "namn": "Fredrik Goa", "titel": "Greenkeeper" },
+      { "namn": "Fabian Ramel", "titel": "Greenkeeper" },
+      { "namn": "Rickard Ekberg", "titel": "Greenkeeper" },
+      { "namn": "Linus Åberg", "titel": "Greenkeeper" },
+      { "namn": "Mattias Feuk", "titel": "Greenkeeper" }
+    ]
+  },
+  "trainers": [
+    { "namn": "Lars Edvinsson", "titel": "PGA Club Professional", "email": "lars@ljgk.se", "telefon": "+46 708917999" },
+    { "namn": "Gustav Ågren", "titel": "PGA Club Professional", "email": "gustav@ljgk.se", "telefon": "+46 709751929" },
+    { "namn": "Fredrik Theander", "titel": "PGA Club Professional", "email": "fredrik@ljgk.se", "telefon": "+46 768605003" },
+    { "namn": "Ebba Björnberg", "titel": "PGA Club Professional", "email": "ebba@ljgk.se", "telefon": "+46 708182469" },
+    { "namn": "Markus Westerberg", "titel": "PGA Club Professional", "email": "markus@ljgk.se", "telefon": "+46 705122813" }
+  ],
+  "board": {
+    "ordforande": "Tom Kellheim",
+    "vice_ordforande_sekreterare": "Johan Ahlgren",
+    "kassor": "Ann Theander",
+    "ledamoter": [
+      { "namn": "Lars Andersson", "roll": "Ordförande fastighetskommittén" },
+      { "namn": "Hanna Banica" },
+      { "namn": "Carl-Johan Hultenheim" },
+      { "namn": "Joakim Linse" },
+      { "namn": "Joakim Peterson", "roll": "Ordförande juniorkommittén" },
+      { "namn": "Karl-Oscar Seth", "roll": "Ordförande bankommittén" },
+      { "namn": "Anders Borgqvist" }
+    ]
+  },
+  "committees": ["Bankommittén", "Fastighetskommittén", "Tävlingskommittén", "Seniorkommittén", "Junior- och Elitkommittén", "Klubbkommittén"],
+  "nomination_committee": {
+    "sammankallande": "Mats Lindelöw",
+    "ledamoter": ["Rasmus Best", "Susanne Jangstam", "Jesper Jelmteg", "Anna Bladh Redzic"],
+    "email": "valberedningen@ljgk.se"
+  },
+  "honorary_members": [
+    { "namn": "Lennart Molander", "ar": 1984, "meriter": "Fd skattmästare, 21 år i styrelsen, ordförande SGF" },
+    { "namn": "Göran Sandegård", "ar": 2009, "meriter": "Golfinstruktör 29 år, byggde juniorprogrammet" },
+    { "namn": "Bengt Olsson", "ar": 2012, "meriter": "Styrelsemedlem 40 år varav 12 som ordförande" },
+    { "namn": "Stig Persson", "ar": 2014, "meriter": "Klubbchef 33 år, bunkerräfsare The Open i 20+ år" },
+    { "namn": "Stefan Lindvall", "ar": 2019, "meriter": "Ordförande 2012–2019, ledde bevattningsinvesteringar" },
+    { "namn": "Mats Molander", "ar": 2026, "meriter": "25+ år i styrelse/kommittéer, initierade klubbhusexpansion" }
+  ],
+  "course": {
+    "holes": 27,
+    "layout": "3 slingor à 9 hål — Nordeuropas första 27-hålsbana (1965)",
+    "slingor": {
+      "slinga_1_9": "Hål 1–9",
+      "slinga_10_18": "Hål 10–18",
+      "slinga_19_27": "Hål 19–27"
+    },
+    "course_records": {
+      "herrar_1_18": { "spelare": "Christopher Feldborg Nielsen", "score": 62, "tavling": "Div 1 Herrar 2021", "datum": "2021-07-15" },
+      "damer_1_18": { "spelare": "Isabella Deilert", "score": 67, "tavling": "Carpe Diem Beds Trophy", "datum": "2018-05-29" }
+    },
+    "pace_of_play": "Rekommenderad rundtid 3 timmar 59 minuter. Max 4 min fika efter hål 9.",
+    "hcp_krav": {
+      "18_hal": "Max HCP 36.0, grupp max 120.0",
+      "9_hal": "Max HCP 54.0"
+    }
+  },
+  "booking": {
+    "system": "Golfbox",
+    "starttider_vardag": "08:30–20:00",
+    "starttider_helg": "09:00–20:00",
+    "start_hal": "Hål 10 (för 18-hålsrond)",
+    "max_bokningar": "Max 5 bokade tider varav max 2 på helg. 5:e bokningen kräver samtal till receptionen.",
+    "no_show": "200 kr avgift vid utebliven ankomst utan avbokning (minst 3 timmar innan). Gäster betalar full greenfee.",
+    "avbokningsfrist": "Minst 3 timmar innan starttid",
+    "gastspelstider_helg": "Tider 11:40, 11:50, 12:40, 12:50, 13:40, 13:50, 14:40+ släpps till medlemmar 2 dagar innan om ej bokade av gäster"
+  },
+  "booking_schedule": {
+    "okt_april_main": {
+      "mån_tor": "Range 06:00–08:20, bokade tider från 08:30",
+      "fredag": "Bokade tider från 06:00",
+      "lor_son": "Range 07:00–08:50, bokade tider från 09:00"
+    },
+    "maj_sep_main": {
+      "mån_tor": "Range 07:00–08:20, bokade tider från 08:30",
+      "fredag": "Bokade tider från 07:00",
+      "lor_son": "Range 06:00–08:50, bokade tider från 09:00"
+    },
+    "9_hal": "Range dagligen från 06:00"
+  },
+  "driving_range": {
+    "oppettider": "07:00–21:00 dagligen",
+    "bollar": { "20_st": "20 kr", "40_st": "35 kr", "60_st": "50 kr" },
+    "bonus": "10% bonus vid betalning med kort eller Golfmore-appen",
+    "betalning": ["Kort", "Golfmore-appen"],
+    "practice_facilities": {
+      "putting_greener": 5,
+      "pitching_green": 1,
+      "chipping_greener": 3,
+      "korthålsbana": "Par 3-bana, 40–60 meter, riktiga greener, bunkrar och vattenhindr"
+    }
+  },
+  "systems_used": {
+    "golfbox": "Bokning, livescoring, tävlingsresultat",
+    "mingolf": "Ankomstregistrering, tävlingsanmälan",
+    "sportadmin": "Juniorprogramanmälan",
+    "proplanner": "Lektionsbokning",
+    "golfmore": "Driving range-betalning",
+    "golfinity": "Nuvarande hemsida"
+  },
+  "junior": {
+    "programs": [
+      { "namn": "Team Future 6–8 år", "pris": 3650, "coach": "Ebba Björnberg", "schema": "55 min/vecka vår/höst", "inkluderar": "Korthålsbanespel 2x/säsong" },
+      { "namn": "Team Future 9–12 år (säsong)", "pris": 3650, "coach": "Gustav Ågren", "schema": "55 min/vecka vår/höst", "inkluderar": "Rangekort (värde 7 300 kr), korthålsbanespel 2x/säsong" },
+      { "namn": "Team Future 9–12 år (helår)", "pris": 4850, "coach": "Gustav Ågren", "krav": "Spelhandicap under 36", "schema": "55 min/vecka vinter/vår/höst + fys vintertid", "inkluderar": "Rangekort (värde 10 000 kr)" },
+      { "namn": "Team Future 13–18 år (säsong)", "pris": 3650, "coach": "Gustav Ågren", "schema": "55 min/vecka vår/höst", "inkluderar": "Rangekort (värde 7 300 kr), banspel 2x/säsong, Teen Cup-camp" },
+      { "namn": "Team Future 13–18 år (helår)", "pris": 4850, "coach": "Gustav Ågren", "krav": "Spelhandicap under 36", "schema": "55 min/vecka vinter/vår/höst + fys vintertid", "inkluderar": "Rangekort (värde 10 000 kr)" },
+      { "namn": "Team Junior tävlingsgrupp (13–17 år)", "pris": 5600, "coach": "Gustav Ågren", "krav": "HCP under 12, regelbundet tävlingsdeltagande", "schema": "55 min/vecka vinter, 90 min/vecka vår/höst + veckospel", "inkluderar": "Rangekort (värde 12 000 kr)" },
+      { "namn": "Team Ljunghusen (16–21 år)", "coach": "Fredrik Theander", "krav": "Inbjudan baserat på golfförmåga, ambition, mognad", "beskrivning": "För spelare med mål inom professionell golf eller college" }
+    ],
+    "sommarprogram": [
+      { "namn": "Sommarskola 6–9 år (Golf & Lek)", "pris": 1500, "langd": "1,5 tim/dag, 4 dagar", "tid": "09:00–10:30 (v.27–31)" },
+      { "namn": "Sommarträning tjejer 10–16 år (Golf for Girls)", "pris": 1500, "langd": "1,5 tim/dag, 4 dagar", "tid": "10:45–12:15 (v.27, 30)" },
+      { "namn": "Sommarträning 10–16 år (Vägen till lägre HCP)", "pris": 2200, "langd": "2 tim/dag, 4 dagar", "tid": "13:00–15:00 (v.27–29, 31)" },
+      { "namn": "Grönt Kort-camp tjejer", "pris": 2500, "langd": "3 tim/dag, 4 dagar", "tid": "09:00–12:00 (v.26, mån–tor)" }
+    ],
+    "anmalan": "Via Sportadmin, öppnar tidigt 2026",
+    "grott_kort_pdf": "Grönt Kort på Ljunghusen — PDF tillgänglig"
+  },
+  "junior_competition_progression": {
+    "steg_1": "Klubbens egna tävlingar — första steget i tävlingsgolf",
+    "steg_2": "Regionala tävlingar — Rookietour och Slaget om Skåne via Skånes Golfförbund",
+    "steg_3": "Nationell nivå — Svenska Juniortourerna via Svenska Golfförbundet"
+  },
+  "senior_program": {
+    "onsdagsgolf": {
+      "beskrivning": "Tävlingar för seniorer varje onsdag under säsongen",
+      "format": "Hälften Running Competition, hälften lagtävlingar",
+      "avgift": "60 kr (kort eller Swish)",
+      "anmalan": "Via Min Golf",
+      "facebook": "Ljunghusens GK Seniorer (sluten grupp)"
+    },
+    "running_competition": true,
+    "seriespel": true,
+    "klubbmatcher": true,
+    "pokalvinnare": "Historik finns på hemsidan"
+  },
+  "competitions": {
+    "anmalan": "Via www.golf.se/mingolf, email info@ljgk.se, eller telefon 040-45 80 00",
+    "anmalningsfrist": "Senast kl 12:00 två dagar före tävling",
+    "no_show": "Dubbel anmälningsavgift vid utebliven start utan avbokning",
+    "km_avgift": "Ingen avgift för KM (herrar och damer)",
+    "hcp_regler": {
+      "klubb_hcp_36_1_54": "Tillåtna i tävlingar",
+      "juniorer_hcp_under_11": "Får spela huvudklass singel",
+      "juniorer_16_plus_hcp_11_36": "Får spela huvudklass singel",
+      "juniorer_13_plus_lag": "Får spela par/lag med seniorer (max lika många juniorer som seniorer)"
+    },
+    "seriespel": {
+      "herrar": ["H22", "H40", "H50", "H60", "H70", "H75", "H80"],
+      "damer": ["D60", "Skåneserien", "Foursome Open"],
+      "kontakt_herrar": "Staffan Holmström — holsta4908@gmail.com",
+      "kontakt_damer": "Maud Meyerson — maudmeyerson@hotmail.com"
+    }
+  },
+  "facilities": {
+    "shop": "Golfstore-partner med garanterat lägsta pris, alla stora märken",
+    "custom_fitting": "Fullt utrustad studio med Trackman och GC Quad",
+    "verkstad": "Klubbreparation och service",
+    "restaurang": "Nermans — dagligen 09:00–15:00",
+    "driving_range": "07:00–21:00 dagligen med 5 putting greener, 1 pitching green, 3 chipping greener, par 3-bana"
+  },
+  "golf_cart_rules": {
+    "naturreservat": "Banan ligger i naturreservat — golfbilar bara med körkort och läkarintyg",
+    "samåkning": "Samåkning uppmuntras, begränsat antal bilar",
+    "gast_krav": "Gäster: medicinsk dokumentation eller 75+ år"
+  },
+  "greenfee_rules": {
+    "betalning": "Greenfee ska ALLTID betalas före spel",
+    "paföljd_ej_betald": "Dubbel greenfee, anmälan till hemklubb, SGF disciplinnämnd (upp till 1 års avstängning)",
+    "hundar": "Hundar tillåtna (kopplade, plocka upp), ej under tävlingar",
+    "introduktionskort": "Innehavare får en gratis runda/år med skriftlig anmälan i förväg",
+    "junior_2026": "Juniorer spelar gratis mån–tor under terminstid med 3 gäster per medlem; ordinarie avgift helg/sommar",
+    "partnerklubbar_gastpris": ["Bokskogen", "Falsterbo", "Flommen", "Kristianstad", "Båstad (ej v.26–32)", "The National", "Copenhagen", "Furesø"]
+  },
+  "naset_links": {
+    "beskrivning": "Gästgolfturnering 2–4 oktober 2026",
+    "format": "Fyrbolls bästa boll, poängbogey. Max 72 deltagare (36 par), max HCP 62 per par",
+    "pris": "5 495 kr/person",
+    "inkluderar": "3 greenfee-ronder, 3 luncher, middagar fre+lör, 2 nätter Höllviksnäs",
+    "banor": ["Ljunghusens GK (fredag)", "Flommens GK (lördag)", "Falsterbo GK (söndag)"]
+  },
+  "accommodation": [
+    { "namn": "Strandvillan Ljunghusen", "beskrivning": "20 unika rum nära havet, spa", "avstand": "5 km", "webb": "strandvillan.com" },
+    { "namn": "Hotell Gässlingen", "plats": "Skanör", "rum": 29, "bekvamligheter": "Konferens, spa, pool", "webb": "hotellgasslingen.com" },
+    { "namn": "Höllviksnäs", "plats": "Höllviken", "bekvamligheter": "Pool, bastu, restaurang", "telefon": "040-459150", "email": "info@hollviksnas.nu" },
+    { "namn": "Quality Hotel View", "plats": "Hyllie, Malmö", "rum": 302, "bekvamligheter": "Konferens, golfsimulatorer (Trackman)", "webb": "nordicchoicehotels.se" },
+    { "namn": "Malmö Arena Hotel", "plats": "Hyllie, Malmö", "rum": 395, "bekvamligheter": "Sky bar, frukost inkl.", "webb": "malmoarenahotel.com" },
+    { "namn": "Hotell Dannegården", "plats": "Trelleborg", "rum": 26, "bekvamligheter": "Relaxpool, bastu, historisk villa från 1910", "webb": "dannegarden.se" }
+  ],
+  "falsterbonaset": {
+    "beskrivning": "Halvö i Vellinge kommun, sydvästra Skåne",
+    "historia": "Skånemarknaden under 1100–1500-talen var en av Nordeuropas viktigaste marknader. Falsterbokanalen (1,6 km) byggdes under andra världskriget.",
+    "strander": "Vita sandstränder med klassiska badhytter — vita i Ljunghusen, rosa och blå i Skanör/Falsterbo",
+    "ljunghusen_strand": "5 minuter från klubben",
+    "skanors_hamn": "Restauranger: J Persson, Badhytten, Bryggan, Fiskhuset, Lindas fingermat",
+    "kallbadhuset": "Öppet året runt med kallbad och bastu",
+    "avstand_malmo": "Ca 30 minuter med bil"
+  },
+  "scholarships": {
+    "stefan_strand": {
+      "beskrivning": "Stipendium till minne av Stefan Strand, tvåfaldig Årets Golfare (2012, 2014)",
+      "instiftat": 2017
+    },
+    "lennart_molander_junior": {
+      "beskrivning": "Juniorstipendium för god sportsmanship och positiv golfutveckling",
+      "ansokan": "Skriftlig ansökan senast 31 december till lenmo30@gmail.com",
+      "utdelning": "Årsmötet"
+    }
+  },
+  "documents": {
+    "stadgar": "Nya stadgar beslutades på årsmötet 28 januari 2023",
+    "verksamhetsplan": "Verksamhetsinriktning 2024–2028",
+    "arsmotet_2026": "Lördag 24 januari 2026, Hotel Quality the View, Malmö. Motioner senast 30 november.",
+    "historiska_protokoll": "Årsmöteshandlingar tillgängliga från 2012–2025"
+  },
+  "etiquette_rules": [
+    "Banpersonal har företräde — ge klartecken innan slag",
+    "Rekommenderad rundtid 4 timmar för fyrboll",
+    "Släpp igenom snabbare grupper vid borttappad boll (max 3 minuters sökning)",
+    "Krattan ska ligga i bunkern med skaftet i spelriktningen",
+    "Laga nedslagsmärken och lägg tillbaka torvor",
+    "Klädkod: Prydlig golfklädsel, mössor ok utomhus men ej inomhus",
+    "Inga fimpar eller snus i naturen",
+    "30 km/h i hela Ljungskogens område"
+  ],
+  "local_rules_2026": {
+    "vintergreen": "Vid spel mot ordinarie green med markerad vintergreen (vita linjer): droppa inom en klubblängd utanför spelförbudszonen. Undantag: puttning med putter är tillåten.",
+    "paföljd": "Generellt straff (2 slag i slagspel, hålförlust i matchspel)"
+  },
+  "membership_admin": {
+    "kategoribyte": "Senast 30 oktober via email till info@ljgk.se",
+    "arsavgift_beslut": "Fastställs på årsmötet (sista lördagen i januari)",
+    "koavgift": "200 kr/år för att stå i kö",
+    "fortur": "Äkta makar till aktiva medlemmar har förtur. Juniorer från klubbens program prioriteras före externa juniorer.",
+    "hcp_krav_medlem": "Handicap under 36 krävs för att ansöka"
+  }
+}

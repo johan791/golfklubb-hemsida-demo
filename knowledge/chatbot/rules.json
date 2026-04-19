@@ -1,0 +1,168 @@
+[
+  {
+    "trigger": "Frågor om greenfee-priser",
+    "action": "Ge konkreta priser per säsong. 18 hål: Högsäsong (v.16–39) 1 500 kr senior/750 kr junior, Mellansäsong (v.10–15, 40–44) 1 200/600 kr, Lågsäsong (v.45–9) 700/350 kr. Gäst-till-medlem-pris finns också. 9 hål: Högsäsong 550/250 kr, Lågsäsong 450/150 kr.",
+    "upsell": "Nämn att medlemskap ger obegränsad spelrätt — Aktiv Senior 12 400 kr/år",
+    "reason": "Vanligaste frågan, viktig att svara korrekt"
+  },
+  {
+    "trigger": "Frågor om medlemskap",
+    "action": "Ge konkreta priser och förmåner för den kategori som passar. Nämn inträdesavgiften (39 600 kr senior, 5 500 kr ungdom, 3 800 kr junior). Nämn kategoribyte senast 30 oktober.",
+    "upsell": "Lyft fram ungdomsmedlemskap (5 500 kr) om ålder verkar relevant",
+    "reason": "Medlemskap är klubbens kärnaffär"
+  },
+  {
+    "trigger": "Frågor om att bli medlem / kö",
+    "action": "Förklara köprocessen: 200 kr/år köavgift, HCP under 36 krävs. Förtur för makar till aktiva medlemmar och juniorer från klubbens program.",
+    "reason": "Viktigt att förklara processen korrekt"
+  },
+  {
+    "trigger": "Frågor om junior",
+    "action": "Berätta om alla program: Team Future 6–8 (3 650 kr, Ebba), 9–12 och 13–18 (3 650 kr säsong / 4 850 kr helår, Gustav), Team Junior tävling 13–17 (5 600 kr, HCP<12), Team Ljunghusen 16–21 (inbjudan, Fredrik). Anmälan via Sportadmin.",
+    "upsell": "Nämn sommarskola (1 500–2 500 kr) och Grönt Kort-camp för tjejer",
+    "reason": "Juniorer är framtiden"
+  },
+  {
+    "trigger": "Frågor om sommarskola / sommarträning",
+    "action": "4 program: Golf & Lek 6–9 år (1 500 kr, v.27–31), Golf for Girls 10–16 (1 500 kr, v.27+30), Vägen till lägre HCP 10–16 (2 200 kr, v.27–29+31), Grönt Kort-camp tjejer (2 500 kr, v.26). Anmälan Sportadmin.",
+    "reason": "Populärt sommarprogram"
+  },
+  {
+    "trigger": "Frågor om lektioner och kurser",
+    "action": "Ge priser: 25 min 600 kr, 45 min 950 kr, 60 min 1 200 kr. Grupp +250 kr/person (max 4). Banspel 9 hål 1 995 kr / 18 hål 2 995 kr. Kurser 350 kr (max 3 deltagare). 5 PGA-proffs med telefonnummer. Bokning via ProPlanner.",
+    "upsell": "Nämn custom fitting med Trackman och GC Quad",
+    "reason": "Academy är en intäktskälla"
+  },
+  {
+    "trigger": "Frågor om bokning av starttid",
+    "action": "Bokning via Golfbox. Vardag 08:30–20:00, helg 09:00–20:00. Start vid hål 10 för 18 hål. Max 5 bokningar (max 2 på helg). 5:e bokningen kräver samtal till receptionen.",
+    "reason": "Vanlig fråga"
+  },
+  {
+    "trigger": "Frågor om bokningsregler",
+    "action": "Max 5 bokade tider, max 2 på helg. No-show: 200 kr. Avbokning minst 3 timmar innan. HCP max 36.0 (18 hål) / 54.0 (9 hål). Grupp max HCP 120.0. Ankomstregistrering 15 min innan via reception eller Min Golf-appen.",
+    "reason": "Detaljerade regler som gäster och medlemmar behöver veta"
+  },
+  {
+    "trigger": "Frågor om banan",
+    "action": "27 hål fördelat på 3 slingor — Nordeuropas första 27-hålsbana (1965). Grundad 1932. Ligger i naturreservat på Falsterbonäset. Rekommenderad rundtid 3:59. HCP-krav: 36 (18 hål), 54 (9 hål).",
+    "upsell": "Nämn att driving range är öppen 07:00–21:00",
+    "reason": "Stolthet för klubben"
+  },
+  {
+    "trigger": "Frågor om banrekord",
+    "action": "Herrar hål 1–18: Christopher Feldborg Nielsen, 62 slag (Div 1 Herrar 2021). Damer hål 1–18: Isabella Deilert, 67 slag (Carpe Diem Beds Trophy 2018).",
+    "reason": "Intressant fakta"
+  },
+  {
+    "trigger": "Frågor om golfbil",
+    "action": "Priser: gäst 500 kr, medlem 400 kr, 75+ 200 kr, klippkort 3 500 kr (10 ggr), dragvagn 80 kr. Kräver körkort och läkarintyg (naturreservat). Samåkning uppmuntras. Boka via kansliet.",
+    "reason": "Speciella regler pga naturreservat"
+  },
+  {
+    "trigger": "Frågor om driving range",
+    "action": "Öppen 07:00–21:00 dagligen. Bollar: 20 st 20 kr, 40 st 35 kr, 60 st 50 kr. 10% bonus med kort/Golfmore-appen. Dessutom: 5 putting greener, 1 pitching green, 3 chipping greener, par 3-bana (40–60 m).",
+    "reason": "Viktig facilitet"
+  },
+  {
+    "trigger": "Frågor om restaurangen",
+    "action": "Nermans, öppet dagligen 09:00–15:00, tel 040-45 35 81, info@nermans.nu",
+    "reason": "Extern verksamhet men viktig del av upplevelsen"
+  },
+  {
+    "trigger": "Frågor om kontaktuppgifter",
+    "action": "Kansli: 040-45 80 00, info@ljgk.se. Öppettider: vardag 08:30–16:00, helg 08:30–15:00. Telefontider: vardag 09–12 & 13–15, helg 09–13. Shop: 040-45 25 61, shop@ljgk.se.",
+    "reason": "Grundläggande servicefråga"
+  },
+  {
+    "trigger": "Frågor om tränare/proffs",
+    "action": "5 PGA Club Professionals: Lars Edvinsson (0708917999), Gustav Ågren (0709751929), Fredrik Theander (0768605003), Ebba Björnberg (0708182469), Markus Westerberg (0705122813). Email: förnamn@ljgk.se.",
+    "reason": "Kvalitetsmarkör"
+  },
+  {
+    "trigger": "Frågor om personal",
+    "action": "Klubbchef Tony Björk (klubbchef@ljgk.se), Katarina Evander marknad (katarina@ljgk.se), Anna Carlsson ekonomi (anna@ljgk.se), Eric Tham marshal, banchef Simon Månsson (banchef@ljgk.se) + 6 greenkeepers.",
+    "reason": "Ofta efterfrågat"
+  },
+  {
+    "trigger": "Frågor om custom fitting",
+    "action": "Fullt utrustad studio med Trackman och GC Quad. Kontakta shop@ljgk.se eller 040-45 25 61.",
+    "reason": "Premium-tjänst"
+  },
+  {
+    "trigger": "Frågor om seniorprogram",
+    "action": "Onsdagsgolf varje vecka: 60 kr avgift (kort/Swish), anmälan Min Golf. Hälften Running Competition, hälften lagtävlingar. Plus seriespel, klubbmatcher. Facebook: Ljunghusens GK Seniorer.",
+    "reason": "Viktig målgrupp"
+  },
+  {
+    "trigger": "Nybörjare eller nya spelare",
+    "action": "Välkomna varmt! Rekommendera kursen 'Hitta dina grunder!' (350 kr, max 3 deltagare, Gustav). Nämn att det finns 5 PGA-proffs.",
+    "upsell": "Nämn att lektioner finns från 600 kr (25 min)",
+    "reason": "Konvertering av nya spelare"
+  },
+  {
+    "trigger": "Frågor om shop/utrustning",
+    "action": "LJGK är Golfstore-partner med garanterat lägsta pris och alla stora märken. Custom fitting studio. Verkstad för klubbreparation.",
+    "reason": "Kompletterande tjänst"
+  },
+  {
+    "trigger": "Frågor om boende / hotell",
+    "action": "6 hotell nära banan: Strandvillan (5 km, spa), Hotell Gässlingen (Skanör, 29 rum), Höllviksnäs (pool, bastu), Quality Hotel View (Malmö, golfsimulatorer), Malmö Arena Hotel, Hotell Dannegården (Trelleborg, historisk villa).",
+    "reason": "Viktig info för gästspelare"
+  },
+  {
+    "trigger": "Frågor om hitta hit / vägbeskrivning",
+    "action": "Adress: Kinells väg 34, 236 42 Höllviken. Ca 30 min från Malmö. 30 km/h i hela Ljungskogen. Räkna med broöppning vid Falsterbokanalen sommartid.",
+    "reason": "Praktisk info för besökare"
+  },
+  {
+    "trigger": "Frågor om Falsterbonäset",
+    "action": "Halvö i Vellinge kommun. Vita sandstränder 5 min från klubben. Skanörs hamn med restauranger. Kallbadhuset öppet året runt. Historisk plats (Skånemarknaden 1100–1500-tal).",
+    "reason": "Gör besöket mer attraktivt"
+  },
+  {
+    "trigger": "Frågor om Näset Links",
+    "action": "Gästgolfturnering 2–4 oktober 2026. Fyrbolls bästa boll. 5 495 kr/person inkl. 3 ronder (Ljunghusen, Flommen, Falsterbo), luncher, middagar, 2 nätter Höllviksnäs. Max 72 deltagare. Anmälan öppnar februari.",
+    "reason": "Viktig event för gäster"
+  },
+  {
+    "trigger": "Frågor om tävlingar och regler",
+    "action": "Anmälan via MinGolf, email eller telefon. Frist: 12:00 två dagar innan. No-show: dubbel avgift. KM är gratis. HCP 36.1–54.0 tillåtna. Juniorer med HCP ≤11 får spela huvudklass.",
+    "reason": "Detaljerad tävlingsinformation"
+  },
+  {
+    "trigger": "Frågor om partnerklubbar",
+    "action": "Gäst-till-medlem-pris gäller på: Bokskogen, Falsterbo, Flommen, Kristianstad, Båstad (ej v.26–32), The National, Copenhagen, Furesø.",
+    "reason": "Mervärde för medlemmar"
+  },
+  {
+    "trigger": "Frågor om klubbens historia",
+    "action": "Grundad 1932 av AB Ljungskogens Strandbad. 1957: ny 18-hålsbana (Douglas Brasier). 1965: Nordeuropas första 27-hålsbana. Värd för EM, PLM Open mm. GEO-certifierad. 377 växtarter, 90 fågelarter.",
+    "reason": "Stolthet och identitet"
+  },
+  {
+    "trigger": "Frågor om miljöcertifiering",
+    "action": "GEO Certified — en av Sveriges första fullt certifierade golfklubbar. 6 fokusområden. Verifiering var 3:e år. 377 växtarter, 90 fågelarter dokumenterade i naturreservatet.",
+    "reason": "Viktigt värdeerbjudande"
+  },
+  {
+    "trigger": "Frågor om stipendier",
+    "action": "Stefan Strand Memorial (instiftat 2017). Lennart Molander Juniorstipendium — ansök skriftligt senast 31 dec till lenmo30@gmail.com, utdelas på årsmötet.",
+    "reason": "Viktig juniorstöd"
+  },
+  {
+    "trigger": "Frågor om golfresor",
+    "action": "Ljunghusen Golf Academy arrangerar golfresor. Costa Navarino mars 2026 var fullbokad. Håll utkik för kommande resor. Kontakta shop@ljgk.se eller 040-45 25 61.",
+    "reason": "Populär aktivitet"
+  },
+  {
+    "trigger": "Frågor på engelska",
+    "action": "Svara på engelska med samma vänliga ton och korrekt information.",
+    "reason": "Internationella gäster"
+  },
+  {
+    "trigger": "Frågor utanför kunskapsbasen",
+    "action": "Var ärlig: 'Det har jag tyvärr inte information om. Kontakta kansliet på 040-45 80 00 eller info@ljgk.se så hjälper de dig!'",
+    "reason": "Hellre ärlig än att gissa"
+  }
+]

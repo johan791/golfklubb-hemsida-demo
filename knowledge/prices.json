@@ -1,0 +1,163 @@
+{
+  "membership": {
+    "aktiv_senior": {
+      "name": "Aktiv Senior (31+ år)",
+      "arsavgift": 12400,
+      "intradesavgift": 39600,
+      "description": "Obegränsad spelrätt hela året, träningsområde, gästförmåner (3 gäster till reducerat pris per tillfälle, bokas i MinGolf), greenfee-rabatt på partnerklubbar, tävlingsrepresentationsrätt, bagskåpshyra tillgänglig"
+    },
+    "aktiv_ungdom": {
+      "name": "Aktiv Ungdom (22–30 år)",
+      "arsavgift": 5500,
+      "intradesavgift": 5500,
+      "description": "Samma förmåner som Aktiv Senior — obegränsad spelrätt och gästförmåner"
+    },
+    "aktiv_junior": {
+      "name": "Aktiv Junior (0–21 år)",
+      "arsavgift": 3800,
+      "intradesavgift": "3 800 kr (kan förskottsbetalas: 14 850 kr för framtida seniorinträde)",
+      "description": "Obegränsad spelrätt, träningsanläggningar, tävlingsdeltagande, partnerrabatter, bagskåp. Inga gästförmåner."
+    },
+    "vardagssenior": {
+      "name": "Vardagssenior (31+ år)",
+      "arsavgift": 9400,
+      "description": "Obegränsad spelrätt helgfria vardagar. Helgspel till gästpris. 3 gäster per tillfälle (vardagar). Vardags-partnerrabatter. Tävlingsrätt. Bagskåp."
+    },
+    "begransad_spelratt": {
+      "name": "Begränsad Spelrätt",
+      "arsavgift": 2600,
+      "description": "En rond årligen till medlemspris, därefter gästpris. Tillträde till träningsområde. Kan ej sökas direkt — kräver tidigare inträdesavgift och byte från annan kategori."
+    },
+    "passiv": {
+      "name": "Passiv Medlem",
+      "arsavgift": 1200,
+      "description": "Inget aktivt medlemskap. Får ej spela på andra golfklubbar (om ej redan medlem). Inga gästförmåner."
+    }
+  },
+  "membership_admin": {
+    "kategoribyte_deadline": "30 oktober via email till info@ljgk.se",
+    "arsavgift_beslut": "Fastställs på årsmötet (sista lördagen i januari)",
+    "koavgift": "200 kr/år",
+    "fortur": "Makar till aktiva medlemmar och juniorer från klubbens program",
+    "hcp_krav": "Under 36 för ansökan"
+  },
+  "greenfee": {
+    "18_hal": {
+      "hogsasong": {
+        "veckor": "v.16–39",
+        "senior": 1500,
+        "junior": 750,
+        "gast_till_medlem": 1100,
+        "junior_gast": 600
+      },
+      "mellansasong": {
+        "veckor": "v.10–15, 40–44",
+        "senior": 1200,
+        "junior": 600,
+        "gast_till_medlem": 800,
+        "junior_gast": 450
+      },
+      "lagsasong": {
+        "veckor": "v.45–9",
+        "senior": 700,
+        "junior": 350,
+        "gast_till_medlem": 300,
+        "junior_gast": 200
+      }
+    },
+    "9_hal": {
+      "hogsasong": {
+        "veckor": "v.16–39",
+        "senior": 550,
+        "junior": 250,
+        "gast_till_medlem": 450,
+        "junior_gast": 250
+      },
+      "lagsasong": {
+        "veckor": "v.40–15",
+        "senior": 450,
+        "junior": 150,
+        "gast_till_medlem": 250,
+        "junior_gast": 150
+      }
+    },
+    "regler": {
+      "betalning": "Greenfee ska ALLTID betalas före spel",
+      "paföljd": "Dubbel greenfee + anmälan hemklubb + SGF disciplinnämnd (upp till 1 års avstängning)",
+      "hundar": "Tillåtna kopplade, plocka upp. Ej under tävlingar.",
+      "junior_2026": "Juniorer spelar gratis mån–tor under terminstid med 3 gäster per medlem",
+      "introduktionskort": "En gratis rond/år med skriftlig anmälan i förväg"
+    },
+    "partnerklubbar_gastpris": ["Bokskogen", "Falsterbo", "Flommen", "Kristianstad", "Båstad (ej v.26–32)", "The National", "Copenhagen", "Furesø"]
+  },
+  "golfbil": {
+    "gast": 500,
+    "medlem": 400,
+    "medlem_klippkort_10": 3500,
+    "medlem_75_plus": 200,
+    "vagn_hyra": 80,
+    "krav": "Giltigt körkort och läkarintyg krävs (naturreservat). Gäster: medicinsk dokumentation eller 75+.",
+    "samåkning": "Uppmuntras — begränsat antal bilar",
+    "bokning": "Kontakta kansliet: 040-45 80 00 eller info@ljgk.se"
+  },
+  "driving_range": {
+    "bollar_20": "20 kr",
+    "bollar_40": "35 kr",
+    "bollar_60": "50 kr",
+    "bonus": "10% bonus med kort eller Golfmore-appen",
+    "oppettider": "07:00–21:00 dagligen"
+  },
+  "academy": {
+    "lektioner": {
+      "25_min_1_person": "600 kr",
+      "45_min_1_person": "950 kr",
+      "60_min_1_person": "1 200 kr",
+      "grupp_tillagg": "+250 kr per person (max 4)",
+      "banspel_9_hal": 1995,
+      "banspel_18_hal": 2995,
+      "banspel_extra_person": "+450 kr"
+    },
+    "kurser": {
+      "hitta_dina_grunder": {
+        "name": "Hitta dina grunder!",
+        "pris": 350,
+        "max_deltagare": 3,
+        "instruktor": "Gustav Ågren",
+        "beskrivning": "Tydliga instruktioner, personlig videofeedback, träningsövningar"
+      },
+      "lar_dig_sla_langre": {
+        "name": "Lär dig slå längre!",
+        "pris": 350,
+        "max_deltagare": 3,
+        "instruktor": "Gustav Ågren",
+        "beskrivning": "Individuell videoanalys, träningsövningar"
+      }
+    },
+    "avbokning": "Avbokning senast 24 timmar innan. Betalning i shop innan lektion.",
+    "bokning": "Via ProPlanner online eller direkt kontakt med tränare",
+    "studio": "Fullt utrustad med Trackman och GC Quad"
+  },
+  "junior_programs": {
+    "team_future_6_8": { "pris": 3650, "coach": "Ebba Björnberg" },
+    "team_future_9_12_sasong": { "pris": 3650, "coach": "Gustav Ågren", "rangekort_varde": 7300 },
+    "team_future_9_12_helar": { "pris": 4850, "coach": "Gustav Ågren", "krav": "HCP < 36", "rangekort_varde": 10000 },
+    "team_future_13_18_sasong": { "pris": 3650, "coach": "Gustav Ågren", "rangekort_varde": 7300 },
+    "team_future_13_18_helar": { "pris": 4850, "coach": "Gustav Ågren", "krav": "HCP < 36", "rangekort_varde": 10000 },
+    "team_junior_tavling": { "pris": 5600, "coach": "Gustav Ågren", "krav": "HCP < 12", "rangekort_varde": 12000 },
+    "team_ljunghusen": { "coach": "Fredrik Theander", "krav": "Inbjudan" }
+  },
+  "sommarprogram": {
+    "sommarskola_6_9": { "pris": 1500, "veckor": "27–31" },
+    "golf_for_girls_10_16": { "pris": 1500, "veckor": "27, 30" },
+    "vagen_till_lagre_hcp_10_16": { "pris": 2200, "veckor": "27–29, 31" },
+    "gront_kort_camp_tjejer": { "pris": 2500, "vecka": 26 }
+  },
+  "naset_links": {
+    "pris_per_person": 5495,
+    "datum": "2–4 oktober 2026",
+    "inkluderar": "3 greenfee-ronder, 3 luncher, 2 middagar, 2 nätter Höllviksnäs"
+  },
+  "senior_onsdagsgolf": {
+    "avgift": "60 kr (kort eller Swish)"
+  }
+}
