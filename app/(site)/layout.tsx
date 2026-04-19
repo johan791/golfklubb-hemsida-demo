@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 import Chatbot from "@/app/components/Chatbot";
+import AdminBar from "@/app/components/AdminBar";
 
 const NAV_ITEMS = [
   { href: "/", label: "Hem" },
@@ -246,6 +247,7 @@ function Footer() {
 export default function SiteLayout({ children }: { children: React.ReactNode }) {
   return (
     <>
+      <AdminBar />
       <Header />
       <main className="flex-1">{children}</main>
       <Footer />
